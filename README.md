@@ -26,5 +26,4 @@
 -	Оптимизированные изображения
 -	Автоматизация сборки через Gulp
 
-## Ссылка на сайт:
-https://ulzirok.github.io/layout-4/
+## Ссылка на сайт: https://ulzirok.github.io/layout-4/
